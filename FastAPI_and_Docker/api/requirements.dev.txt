@@ -1,0 +1,4 @@
+fastapi[all]
+tensorflow[all]
+numpy[all]
+python-multipart[all]
