@@ -7,6 +7,7 @@ This repository will be used to store all relevant scripts for the assignment of
 ├── azure_folder                    // Contains the scripts used on AMLS
 ├── Cedric_Hermans_assignment.docx  // The Word document that was also uploaded on Leho
 ├── download_sequences.py           // The script used to download the training sequences
+├── example_fastas                  // Example FASTA files, useful for testing.
 ├── FastAPI_and_Docker              // The folder containing everything for FastAPI app
 │   ├── api
 │   │   ├── app
